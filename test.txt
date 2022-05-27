@@ -1,2 +1,2 @@
-https://github.com/vinodpurnam/aws.git
 updated from local repository
+updated lines from remote repository
