@@ -1,4 +1,4 @@
 updated from local repository
 updated lines from remote repository
 
-updated lines by dev1
+updated line from dev2
